@@ -1,7 +1,5 @@
 {
   "UpdateAvailable": true,
   "UpdateUrl": "https://t.me/AmashEngine",
-  "UpdateIcon": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/icon.png",
-  "UpdateBg": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/bg.png",
   "UpdateMessage": "A new version of this mod is available! Please update to the latest version to continue using the app."
 }
